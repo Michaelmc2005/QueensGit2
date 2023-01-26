@@ -1,0 +1,14 @@
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.AssemblyInfoInputs.cache
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.AssemblyInfo.cs
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.csproj.CoreCompileInputs.cache
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/bin/Debug/netstandard2.0/queensGame.deps.json
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/bin/Debug/netstandard2.0/queensGame.dll
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/bin/Debug/netstandard2.0/ref/queensGame.dll
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/bin/Debug/netstandard2.0/queensGame.pdb
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.dll
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/ref/queensGame.dll
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.pdb
+/Users/michaelmcmahon/Projects/queensGame/queensGame/queensGame/obj/Debug/netstandard2.0/queensGame.csproj.AssemblyReference.cache
