@@ -57,7 +57,7 @@ namespace queensGame
 
         public void ShakeDetected()
         {
-            label.Text = "CARD DISPLAY";
+            label.Text = "This text has been changed to test github";
         }
 
 
