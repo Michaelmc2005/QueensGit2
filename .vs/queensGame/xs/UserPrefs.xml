@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{03C75CD6-3350-4C9B-AD66-CFB9640B6513}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="queensGame/queensGame.Android/MainActivity.cs">
+    <Files>
+      <File FileName="queensGame/queensGame/MainPage.xaml" Line="4" Column="33" />
+      <File FileName="queensGame/queensGame/MainPage.xaml.cs" Line="57" Column="1" />
+      <File FileName="queensGame/queensGame.Android/MainActivity.cs" Line="73" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="queensGame" expanded="True">
+            <Node name="queensGame" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="queensGame.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="raw" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.queensGame.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+</Properties>
